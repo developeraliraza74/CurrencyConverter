@@ -1,6 +1,6 @@
 A clean and intuitive web-based Currency Converter that provides users with up-to-the-minute exchange rates. This application was built using vanilla JavaScript to fetch real-time data from a third-party currency API. The user-friendly interface allows for quick input and selection of over 150 global currencies, with country flags dynamically updating for a seamless user experience.
 
-##Key Features:
+# Key Features:
 
 * Real-Time Rates: Integrates with the ExchangeRate-API to provide accurate, live currency conversion data.
 
